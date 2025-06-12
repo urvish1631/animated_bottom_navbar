@@ -2,6 +2,8 @@
 
 This screen features an elegant and interactive bottom navigation bar with glassmorphism effect on the selected icon. It includes smooth animations, icon transformations, and customizable design.
 
+![Demo Screenshot](assets/animated_bottom_navbar.jpg)
+
 ## ✨ Features
 
 - 🎯 Animated Bottom Navigation Bar
@@ -27,4 +29,4 @@ This screen features an elegant and interactive bottom navigation bar with glass
 - A Stack combines the background blur using BackdropFilter and a semi-transparent gradient.
 - ClipOval ensures the blur is confined to the circular icon area.
 
-![Demo Screenshot](assets/animated_bottom_navbar.jpg)
+![Demo Screenshot](assets/animated_bottom_navbar.mp4)
