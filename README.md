@@ -29,4 +29,4 @@ This screen features an elegant and interactive bottom navigation bar with glass
 - A Stack combines the background blur using BackdropFilter and a semi-transparent gradient.
 - ClipOval ensures the blur is confined to the circular icon area.
 
-<img src="assets/animated_bottom_navbar.gif" width="320px;" height="700px;" style="border-radius:30px"/>
+<img src="assets/animated_bottom_navbar.gif" width="320px;" height="700px;" style="border-radius:30px;"/>
